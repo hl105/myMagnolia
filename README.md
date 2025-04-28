@@ -1,5 +1,4 @@
 # myMagnolia ✿
-
 ## Description
 
 A **Tangible User Interface** Project by Johanna, Nina, Esther
@@ -9,10 +8,11 @@ A **Tangible User Interface** Project by Johanna, Nina, Esther
 How might we design a novel tangible user interface, which helps support the productivity, creativity, and well being of people who work or study in mobile environments?
 
 **Our Product**:
-
-
 `MyMagnolia` is a flower-shaped TUI that provides **multisensory feedback** to help users manage stress in a remote work environment.
 In a time where we rely on our screens, MyMagnolia supports users to pause with meditative sounds, calming light features, and serves as a floral friend.
+
+<img src="./proj.jpeg" alt="drawing" width="200"/>
+
 
 **Intended Users**:
 - [x] a college student taking a virtual course
@@ -20,6 +20,7 @@ In a time where we rely on our screens, MyMagnolia supports users to pause with 
 - [x] all users who work from remote locations benefit from MyMagnolia.
 
 ## Tools used
+
 - Arduino Uno
 - [Load Cell](https://www.amazon.com/WWZMDiB-Amplifier-HX711-Displacement-Acceleration/dp/B0BLNR4S1P/ref=sr_1_3?crid=34IYA27Z8D683&dib=eyJ2IjoiMSJ9.CMkp0W1bNn-5AwaIVUuJJQlM_YH2GmYPTIfzaZrSzP5LIDK4np4qHfcsXtwo0LWOYySeC9q_0oW-vuorSs1xEVPaFFPGG7bc6hSXRyMq6DtpRN2bRqqahp-T8KWvC_vUsDJZk3z_LeiLcLZRS8kESvHRXSTD3rRMf1yZYJIJ89-HZ5vpINO7CT-j1L4PlAW7Yx-5S3b9Vm-G9NfJodJcc0pRjXbKJk4oRESNqaA3JFQhPg2hkhQsTVoMohUBghshg04CYpbQ201Dzm0WDT9DuOWf63ufDN2PjAnMNJoAKPE.QSejasGaSnWXcIhr_Qkkw0jqjl4r2FRPCT__ZcRF33c&dib_tag=se&keywords=load%2Bcell&qid=1745865337&s=industrial&sprefix=load%2Bcell%2Cindustrial%2C117&sr=1-3&th=1)
 - [Load Cell Frame](https://www.thingiverse.com/thing:4602226)
@@ -30,6 +31,8 @@ In a time where we rely on our screens, MyMagnolia supports users to pause with 
     - Load Cell calibration: `Calibration_copy_20250419165240`
     - Libraries: `DFRobotDFPlayerMini` for DFPlayerMini, `HX711_ADC` for Load cell
     - Main file to run: `sketch_myMagnolia`
+
+<img src="./tech.JPG" alt="drawing" width="200"/>
 
 ## Setup
 Follow these two tutorials:
@@ -88,3 +91,7 @@ and then the weight value starts loading.
 - [Load Sensor Tutorial](https://www.youtube.com/watch?v=sxzoAGf1kOo&ab_channel=Indrek)
 - [DFPlayerMini](https://circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino)
 - [DFPlayerMini Video Tutorial](https://www.youtube.com/watch?v=P42ICrgAtS4&ab_channel=Indrek)
+
+
+<img src="./mymagnolia.png" alt="drawing" width="200"/>
+
