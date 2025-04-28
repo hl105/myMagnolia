@@ -1,4 +1,4 @@
-# myMagnolia ✿
+# MyMagnolia ✿
 [Project Website](https://mymagnolia.cargo.site/)
 ## Description
 
