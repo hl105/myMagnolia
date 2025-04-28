@@ -1,5 +1,5 @@
 # myMagnolia ✿
-[Project Webiste](https://mymagnolia.cargo.site/)
+[Project Website](https://mymagnolia.cargo.site/)
 ## Description
 
 A **Tangible User Interface** Project by Johanna, Nina, Esther
